@@ -1,6 +1,5 @@
-package fr.uga.poo.expr.builder;
+package fr.uga.poo.expr.binary;
 
-import fr.uga.poo.expr.binary.BinaryOperation;
 import fr.uga.poo.expr.constants.ConstArithmeticExpression;
 import fr.uga.poo.expr.constants.RationalConst;
 

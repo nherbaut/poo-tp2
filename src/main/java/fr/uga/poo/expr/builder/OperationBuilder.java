@@ -6,6 +6,7 @@ import fr.uga.poo.expr.ArithmeticExpression;
 import fr.uga.poo.expr.binary.BinaryOperation;
 import fr.uga.poo.expr.binary.IntegerProduct;
 import fr.uga.poo.expr.binary.IntegerSum;
+import fr.uga.poo.expr.binary.RationalProduct;
 import fr.uga.poo.expr.binary.RationalSum;
 import fr.uga.poo.expr.constants.ConstArithmeticExpression;
 import fr.uga.poo.expr.constants.IntegerConst;
